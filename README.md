@@ -1,5 +1,6 @@
 # Financial_Dashboard_1
 Technology Used - PowerBI
+
 Elaborated Overall Explanation of the Financial Dashboard
 
 This Financial Dashboard is designed to give a complete 360-degree view of the company’s sales and financial performance. It transforms raw sales data into meaningful insights that help business leaders make informed decisions.
